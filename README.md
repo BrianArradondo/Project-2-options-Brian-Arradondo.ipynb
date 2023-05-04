@@ -29,3 +29,6 @@
 <img width="786" alt="Screenshot 2023-05-04 163700" src="https://user-images.githubusercontent.com/126424848/236335490-e282e589-f38f-467a-9ac7-4b049884cd9e.png">
 
 My Model shows with a strong level of Precision as a Metric, its ability to intepret the key factors that predict incomes above the 50K range. This is further reflected in the scores provided.
+---
+*Based on my Analytical findings: If one wants to pursue paths to promote incomes that reach and or exceed the 50K level then they want to focus on areas related to education and then consider placement in a private work class category. The combination of these two factors seem to correlate to producing paths to incomes that reach or exceed the 50K range.* 
+
