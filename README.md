@@ -19,10 +19,11 @@
 
 7. What, if any, challenges do you foresee in cleaning, exploring, or modeling this dataset? There were no significant  challenges in this dataset.
 
-
+## Education Visual
 ![image](https://user-images.githubusercontent.com/126424848/236334084-016328de-8aa7-4b8c-8b54-9e82f83b65a0.png)
  - There appears to be a strong correlation between race and higher levels of education. This shows a disparity of an educational advantage favoring some race distinctions. This is an interesting trend to take note of.
  
+ ## WorkClass Visual
  ![image](https://user-images.githubusercontent.com/126424848/236334401-6d33cb13-8fbb-4738-a57f-b301cdaecaf0.png)
 - This visual shows that overwhelmingly, the workclass in the Private category makes up the majority.
 
@@ -30,5 +31,6 @@
 
 My Model shows with a strong level of Precision as a Metric, its ability to intepret the key factors that predict incomes above the 50K range. This is further reflected in the scores provided.
 ---
-*Based on my Analytical findings: If one wants to pursue paths to promote incomes that reach and or exceed the 50K level then they want to focus on areas related to education and then consider placement in a private work class category. The combination of these two factors seem to correlate to producing paths to incomes that reach or exceed the 50K range.* 
+# Recommendations for Stakeholders
+## Based on my Analytical findings: If one wants to pursue paths to promote incomes that reach and or exceed the 50K level then they want to focus on areas related to education and then consider placement in a private work class category. The combination of these two factors seem to correlate to producing paths to incomes that reach or exceed the 50K range. 
 
