@@ -1,10 +1,16 @@
 ![jar-full-money-sits-desk-next-to-calculator-generative-ai-271822959](https://user-images.githubusercontent.com/126424848/236888033-17afe5eb-b0eb-4a74-bc99-fda7c2e621bf.jpg)
 
-### The Business Problem to be answered here is what are the main contributors to incomes above a certain fixed range? Are they what we would think they are? Are the results of these Analytical models intuitive or counterintuitive? What could this information be used for?
+### The Business Problems to be answered: 
+#### What are the main contributors to incomes above a certain fixed range? 
+#### Are they what we would think they are? 
+#### Are the results of these Analytical models intuitive or counterintuitive? 
+#### What could this information be used for?
 
-**The Stakeholders could be those who work in Government Programs and want to get a sense of whether or not contributing effort to or removing effort from different programs could produce a positive result in the category of improving incomes for struggling demographics.** 
+### The Stakeholders: 
+#### Those who work in Government Programs, Non - Profits or Start-ups and want to get a sense of whether contributing effort to or removing effort from different programs could produce a positive result in the category of improving incomes for struggling demographics. This is about establishing a starting point of the application of highly focused efforts for the highest return on your efforts. 
 ---
 ## Adult Income DataSet
+
 1. Kaggle was the Source of data
 
 2. Brief description of data - The data analyzes the shared data points while showing the disparity in the large sample size of those who have incomes above and below the target value.
@@ -25,7 +31,7 @@
  
  ## WorkClass Visual
  ![image](https://user-images.githubusercontent.com/126424848/236334401-6d33cb13-8fbb-4738-a57f-b301cdaecaf0.png)
-- This visual shows that overwhelmingly, the workclass in the Private category makes up the majority.
+- This visual shows that overwhelmingly, the workclass in the Private category makes up the majority. This would seem to imply that the best probability for incomes that exceed the 50K annual range exist in the realm of private work. 
 
 <img width="786" alt="Screenshot 2023-05-04 163700" src="https://user-images.githubusercontent.com/126424848/236335490-e282e589-f38f-467a-9ac7-4b049884cd9e.png">
 
