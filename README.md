@@ -1,4 +1,4 @@
-![image](https://user-images.githubusercontent.com/126424848/236332357-c6ba7b19-d1bb-402e-9895-95caf8f51781.png)
+![jar-full-money-sits-desk-next-to-calculator-generative-ai-271822959](https://user-images.githubusercontent.com/126424848/236888033-17afe5eb-b0eb-4a74-bc99-fda7c2e621bf.jpg)
 
 ### The Business Problem to be answered here is what are the main contributors to incomes above a certain fixed range? Are they what we would think they are? Are the results of these Analytical models intuitive or counterintuitive? What could this information be used for?
 
